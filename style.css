@@ -168,4 +168,7 @@ button {
   .main-content {
     max-width: 800px;
   }
+  .article-preview__picture img {
+    border-radius: 0.7rem 0 0 0.7rem;
+  }
 }
